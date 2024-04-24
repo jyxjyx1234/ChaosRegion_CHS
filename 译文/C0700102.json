@@ -1,0 +1,201 @@
+[
+    {
+        "index": 1,
+        "name": "ディープワンズ",
+        "pre_jp": "ンギッ……ゲッゲッゲッ……",
+        "post_jp": "ンギッ……ゲッゲッゲッ……",
+        "pre_zh": "嗯咕……咕咕咕……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "嗯咕……咕咕咕……"
+    },
+    {
+        "index": 2,
+        "name": "ディープワンズ",
+        "pre_jp": "我ラガ同胞ハ、イズコ……",
+        "post_jp": "我ラガ同胞ハ、イズコ……",
+        "pre_zh": "我们的同胞，就在那里……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "我们的同胞，就在那里……"
+    },
+    {
+        "index": 3,
+        "name": "流",
+        "pre_jp": "スズキさんは、いろいろな世界から君たちを召喚していたみたいだね。",
+        "post_jp": "スズキさんは、いろいろな世界から君たちを召喚していたみたいだね。",
+        "pre_zh": "铃木先生似乎从各种世界召唤了你们。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "铃木先生似乎从各种世界召唤了你们。"
+    },
+    {
+        "index": 4,
+        "name": "流",
+        "pre_jp": "彼が残した魔術的な綻びは、未だに君たちを吸い寄せてしまっている……",
+        "post_jp": "彼が残した魔術的な綻びは、未だに君たちを吸い寄せてしまっている……",
+        "pre_zh": "他留下的魔术性破绽，至今仍在吸引你们……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "他留下的魔术性破绽，至今仍在吸引你们……"
+    },
+    {
+        "index": 5,
+        "name": "ディープワンズ",
+        "pre_jp": "我ラノ楽園……",
+        "post_jp": "我ラノ楽園……",
+        "pre_zh": "我们的乐园……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "我们的乐园……"
+    },
+    {
+        "index": 6,
+        "name": "ディープワンズ",
+        "pre_jp": "約束ノ日ヲ待ツ棺ヲ……",
+        "post_jp": "約束ノ日ヲ待ツ棺ヲ……",
+        "pre_zh": "等待约定之日的棺材……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "等待约定之日的棺材……"
+    },
+    {
+        "index": 7,
+        "name": "流",
+        "pre_jp": "ヴァルハラはもうないよ。スズキさんも、もういない。",
+        "post_jp": "ヴァルハラはもうないよ。スズキさんも、もういない。",
+        "pre_zh": "瓦尔哈拉已经不存在了。铃木先生也已经不在了。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "瓦尔哈拉已经不存在了。铃木先生也已经不在了。"
+    },
+    {
+        "index": 8,
+        "name": "ディープワンズ",
+        "pre_jp": "嘘ダ……嘘ニ決マッテイル……",
+        "post_jp": "嘘ダ……嘘ニ決マッテイル……",
+        "pre_zh": "骗人……肯定是骗人的……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "骗人……肯定是骗人的……"
+    },
+    {
+        "index": 9,
+        "name": "ディープワンズ",
+        "pre_jp": "人間……憎イ……",
+        "post_jp": "人間……憎イ……",
+        "pre_zh": "人类……可恨……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "人类……可恨……"
+    },
+    {
+        "index": 10,
+        "name": "ディープワンズ",
+        "pre_jp": "殺セ、殺セ……！",
+        "post_jp": "殺セ、殺セ……！",
+        "pre_zh": "杀了他们，杀了他们……！",
+        "proofread_zh": "",
+        "problem": "比日文长1.5倍",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "杀了他们，杀了他们……！"
+    },
+    {
+        "index": 11,
+        "name": "流",
+        "pre_jp": "やられるわけにはいかないよ。それに君たちを残しておくわけにもいかない。君たちの殺意や思念が、この地域の住民に影響を与えていて困ってるんだ。",
+        "post_jp": "やられるわけにはいかないよ。それに君たちを残しておくわけにもいかない。君たちの殺意や思念が、この地域の住民に影響を与えていて困ってるんだ。",
+        "pre_zh": "我不能被打败。而且也不能让你们留在这里。你们的杀意和思念，已经对这个地区的居民造成了影响，我很困扰。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "我不能被打败。而且也不能让你们留在这里。你们的杀意和思念，已经对这个地区的居民造成了影响，我很困扰。"
+    },
+    {
+        "index": 12,
+        "name": "流",
+        "pre_jp": "君たちをこの世界へ置いておけない。でも還してあげる場所もわからないから……",
+        "post_jp": "君たちをこの世界へ置いておけない。でも還してあげる場所もわからないから……",
+        "pre_zh": "我不能让你们留在这个世界。但是，我也不知道该让你们去哪里……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "我不能让你们留在这个世界。但是，我也不知道该让你们去哪里……"
+    },
+    {
+        "index": 13,
+        "name": "流",
+        "pre_jp": "我が内にある創世と破壊の精霊よ……かの者達の存在を記憶し、いつか始まる新しい世界へ導き給え……",
+        "post_jp": "我が内にある創世と破壊の精霊よ……かの者達の存在を記憶し、いつか始まる新しい世界へ導き給え……",
+        "pre_zh": "我体内的创世和破坏的精灵啊……记住他们的存在，引导他们走向即将开始的新世界……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "我体内的创世和破坏的精灵啊……记住他们的存在，引导他们走向即将开始的新世界……"
+    },
+    {
+        "index": 14,
+        "name": "ディープワンズ",
+        "pre_jp": "オ、オ、オ……オオォォォ……！",
+        "post_jp": "オ、オ、オ……オオォォォ……！",
+        "pre_zh": "哦、哦、哦……哦哦哦哦……！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "哦、哦、哦……哦哦哦哦……！"
+    },
+    {
+        "index": 15,
+        "name": "ディープワンズ",
+        "pre_jp": "光ガ……道ガ……我ラノ道ガ……！",
+        "post_jp": "光ガ……道ガ……我ラノ道ガ……！",
+        "pre_zh": "光……道路……我们的道路……！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "光……道路……我们的道路……！"
+    },
+    {
+        "index": 16,
+        "name": "流",
+        "pre_jp": "今はただ大地に……ううん。水面の泡のように消えて……",
+        "post_jp": "今はただ大地に……ううん。水面の泡のように消えて……",
+        "pre_zh": "现在只是在大地上……不，就像水面的泡沫一样消失……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "现在只是在大地上……不，就像水面的泡沫一样消失……"
+    },
+    {
+        "index": 17,
+        "name": "流",
+        "pre_jp": "…………",
+        "post_jp": "…………",
+        "pre_zh": "…………",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "…………"
+    },
+    {
+        "index": 18,
+        "name": "流",
+        "pre_jp": "許して欲しいなんていわないよ。ごめんね。",
+        "post_jp": "許して欲しいなんていわないよ。ごめんね。",
+        "pre_zh": "我并没有说希望你原谅我。对不起。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "我并没有说希望你原谅我。对不起。"
+    }
+]

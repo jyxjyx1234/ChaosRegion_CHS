@@ -1,0 +1,190 @@
+[
+    {
+        "index": 1,
+        "name": "桜火",
+        "pre_jp": "煉獄は！？",
+        "post_jp": "煉獄は！？",
+        "pre_zh": "炼狱呢！？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "炼狱呢！？"
+    },
+    {
+        "index": 2,
+        "name": "スズキ",
+        "pre_jp": "に、逃げちゃったみたいですよ？そのお二人と、戦っている間に……",
+        "post_jp": "に、逃げちゃったみたいですよ？そのお二人と、戦っている間に……",
+        "pre_zh": "他、他好像逃走了？就在我们和那两个人战斗的时候……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "他、他好像逃走了？就在我们和那两个人战斗的时候……"
+    },
+    {
+        "index": 3,
+        "name": "桜火",
+        "pre_jp": "くっ……追うぞ、流！",
+        "post_jp": "くっ……追うぞ、流！",
+        "pre_zh": "唔……我们追，流！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "唔……我们追，流！"
+    },
+    {
+        "index": 4,
+        "name": "麟",
+        "pre_jp": "馬鹿を言うなっ！！",
+        "post_jp": "馬鹿を言うなっ！！",
+        "pre_zh": "别说傻话！！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "别说傻话！！"
+    },
+    {
+        "index": 5,
+        "name": "桜火",
+        "pre_jp": "なっ……何が馬鹿だ！煉獄をこのままにしておいては……",
+        "post_jp": "なっ……何が馬鹿だ！煉獄をこのままにしておいては……",
+        "pre_zh": "什……什么傻话！如果就这样放任炼狱的话……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "什……什么傻话！如果就这样放任炼狱的话……"
+    },
+    {
+        "index": 6,
+        "name": "麟",
+        "pre_jp": "マスターを殺す気か、貴様！！",
+        "post_jp": "マスターを殺す気か、貴様！！",
+        "pre_zh": "你打算杀了主人吗，你这个混账！！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "你打算杀了主人吗，你这个混账！！"
+    },
+    {
+        "index": 7,
+        "name": "桜火",
+        "pre_jp": "え……？",
+        "post_jp": "え……？",
+        "pre_zh": "诶……？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "诶……？"
+    },
+    {
+        "index": 8,
+        "name": "流",
+        "pre_jp": "ご……ゴメン……限界みたいだ……薬が……",
+        "post_jp": "ご……ゴメン……限界みたいだ……薬が……",
+        "pre_zh": "对……对不起……我好像已经到极限了……药效……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "对……对不起……我好像已经到极限了……药效……"
+    },
+    {
+        "index": 9,
+        "name": "麟",
+        "pre_jp": "動くなっ！喋るなっ！ジッとしていろ！本当に死んでしまうぞ、お前！",
+        "post_jp": "動くなっ！喋るなっ！ジッとしていろ！本当に死んでしまうぞ、お前！",
+        "pre_zh": "别动！别说话！乖乖待着！你真的会死的，知道吗！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "别动！别说话！乖乖待着！你真的会死的，知道吗！"
+    },
+    {
+        "index": 10,
+        "name": "流",
+        "pre_jp": "そ……みたいだ……",
+        "post_jp": "そ……みたいだ……",
+        "pre_zh": "看……看来是这样……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "看……看来是这样……"
+    },
+    {
+        "index": 11,
+        "name": "",
+        "pre_jp": "薬を使う直前に喰らった煉獄の攻撃は、やはり致命的なものだったらしい。薬が切れた瞬間から、何が何だかわからなくなった。",
+        "post_jp": "薬を使う直前に喰らった煉獄の攻撃は、やはり致命的なものだったらしい。薬が切れた瞬間から、何が何だかわからなくなった。",
+        "pre_zh": "在使用药物之前受到的炼狱的攻击，看来还是致命性的。从药物失效的那一刻起，我就变得什么都搞不清楚了。无法理解疼痛的感觉，身体无法自由活动，甚至连呼吸都变得困难。",
+        "proofread_zh": "",
+        "problem": "比日文长1.4倍",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "在使用药物之前受到的炼狱的攻击，看来还是致命性的。从药物失效的那一刻起，我就变得什么都搞不清楚了。无法理解疼痛的感觉，身体无法自由活动，甚至连呼吸都变得困难。"
+    },
+    {
+        "index": 12,
+        "name": "",
+        "pre_jp": "痛みだということを上手く理解できないほどの衝撃と、身動きは愚か息一つ満足に出来ない不自由さが、ずっと続いている。",
+        "post_jp": "痛みだということを上手く理解できないほどの衝撃と、身動きは愚か息一つ満足に出来ない不自由さが、ずっと続いている。",
+        "pre_zh": "这种冲击和身体的不自由感一直持续着，让我无法正常理解疼痛。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "这种冲击和身体的不自由感一直持续着，让我无法正常理解疼痛。"
+    },
+    {
+        "index": 13,
+        "name": "桜火",
+        "pre_jp": "す……すまん、流！しっかりしてくれ！",
+        "post_jp": "す……すまん、流！しっかりしてくれ！",
+        "pre_zh": "对……对不起，流！你一定要坚持住！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "对……对不起，流！你一定要坚持住！"
+    },
+    {
+        "index": 14,
+        "name": "麟",
+        "pre_jp": "寄るな、馬鹿者！下手に触っても殺すことになるぞ！それくらいわからんのか！",
+        "post_jp": "寄るな、馬鹿者！下手に触っても殺すことになるぞ！それくらいわからんのか！",
+        "pre_zh": "别靠近她，笨蛋！随便碰她也会害死她的！你连这个都不懂吗！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "别靠近她，笨蛋！随便碰她也会害死她的！你连这个都不懂吗！"
+    },
+    {
+        "index": 15,
+        "name": "桜火",
+        "pre_jp": "あ……す、すまん……",
+        "post_jp": "あ……す、すまん……",
+        "pre_zh": "啊……对、对不起……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "啊……对、对不起……"
+    },
+    {
+        "index": 16,
+        "name": "麟",
+        "pre_jp": "こういうのを、瀕死というのだ！今、麟様が治してやるから、マスターも偽精霊も大人しくしていろ！",
+        "post_jp": "こういうのを、瀕死というのだ！今、麟様が治してやるから、マスターも偽精霊も大人しくしていろ！",
+        "pre_zh": "这就是所谓的濒死状态！现在，麟大人会帮你治疗，主人和伪精灵都乖乖待着！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "这就是所谓的濒死状态！现在，麟大人会帮你治疗，主人和伪精灵都乖乖待着！"
+    },
+    {
+        "index": 17,
+        "name": "桜火",
+        "pre_jp": "…………",
+        "post_jp": "…………",
+        "pre_zh": "…………",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "…………"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "index": 1,
+        "name": "黒亀",
+        "pre_jp": "……これでいい。これで……",
+        "post_jp": "……これでいい。これで……",
+        "pre_zh": "……这样就好了。这样……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "……这样就好了。这样……"
+    },
+    {
+        "index": 2,
+        "name": "黒亀",
+        "pre_jp": "輪廻様。ようやくですぞ……",
+        "post_jp": "輪廻様。ようやくですぞ……",
+        "pre_zh": "轮回大人。终于……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "轮回大人。终于……"
+    },
+    {
+        "index": 3,
+        "name": "？？？",
+        "pre_jp": "ようやく、ですか……",
+        "post_jp": "ようやく、ですか……",
+        "pre_zh": "终于，是吗……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "终于，是吗……"
+    },
+    {
+        "index": 4,
+        "name": "黒亀",
+        "pre_jp": "遥殿、ですかな？",
+        "post_jp": "遥殿、ですかな？",
+        "pre_zh": "是遥殿，对吧？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "是遥殿，对吧？"
+    },
+    {
+        "index": 5,
+        "name": "六木",
+        "pre_jp": "いえ、残念ですが私です。",
+        "post_jp": "いえ、残念ですが私です。",
+        "pre_zh": "不，很遗憾，是我。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "不，很遗憾，是我。"
+    },
+    {
+        "index": 6,
+        "name": "黒亀",
+        "pre_jp": "六木殿でしたか。では……遥殿は。",
+        "post_jp": "六木殿でしたか。では……遥殿は。",
+        "pre_zh": "是六木大人吗。那么……遥大人呢。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "是六木大人吗。那么……遥大人呢。"
+    },
+    {
+        "index": 7,
+        "name": "六木",
+        "pre_jp": "彼女は眠っていますよ。女神に匹敵する力を持っていても、まだ「人間」のようですから。",
+        "post_jp": "彼女は眠っていますよ。女神に匹敵する力を持っていても、まだ「人間」のようですから。",
+        "pre_zh": "她正在睡觉。即使拥有与女神匹敌的力量，她似乎还是个「人类",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "她正在睡觉。即使拥有与女神匹敌的力量，她似乎还是个「人类"
+    },
+    {
+        "index": 8,
+        "name": "六木",
+        "pre_jp": "そして、彼女が眠る間は私が顔を出すことができる。こうしてあなたと話をすることもね。",
+        "post_jp": "そして、彼女が眠る間は私が顔を出すことができる。こうしてあなたと話をすることもね。",
+        "pre_zh": "然后，她睡觉的时候我就可以露面。也可以像这样和你谈话。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "然后，她睡觉的时候我就可以露面。也可以像这样和你谈话。"
+    },
+    {
+        "index": 9,
+        "name": "六木",
+        "pre_jp": "前回もそうです。あの日、あの世界が滅びの瞬間を迎えたときも……",
+        "post_jp": "前回もそうです。あの日、あの世界が滅びの瞬間を迎えたときも……",
+        "pre_zh": "上次也是这样。那一天，那个世界迎来毁灭的瞬间时也是……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "上次也是这样。那一天，那个世界迎来毁灭的瞬间时也是……"
+    },
+    {
+        "index": 10,
+        "name": "黒亀",
+        "pre_jp": "前回……？",
+        "post_jp": "前回……？",
+        "pre_zh": "上次……？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "上次……？"
+    },
+    {
+        "index": 11,
+        "name": "六木",
+        "pre_jp": "私と、遥と……輪廻という人。その繋がりの事です。",
+        "post_jp": "私と、遥と……輪廻という人。その繋がりの事です。",
+        "pre_zh": "我和、遥……还有那个叫做轮回的人。这是关于我们的联系。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "我和、遥……还有那个叫做轮回的人。这是关于我们的联系。"
+    },
+    {
+        "index": 12,
+        "name": "黒亀",
+        "pre_jp": "ふむ……よろしければ、お聞かせ願えませんかな。",
+        "post_jp": "ふむ……よろしければ、お聞かせ願えませんかな。",
+        "pre_zh": "嗯……如果可以的话，能告诉我吗？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "嗯……如果可以的话，能告诉我吗？"
+    },
+    {
+        "index": 13,
+        "name": "六木",
+        "pre_jp": "構いませんよ。あなたも知っておいた方が良いことでしょうから……",
+        "post_jp": "構いませんよ。あなたも知っておいた方が良いことでしょうから……",
+        "pre_zh": "没关系的。你也应该知道这些事情……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "没关系的。你也应该知道这些事情……"
+    }
+]

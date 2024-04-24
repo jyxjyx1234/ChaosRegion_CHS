@@ -1,0 +1,30 @@
+{
+  "injector": {
+    "enable": true,
+    "print_loaded_modules": false,
+    "load_modules": [
+      "resident.dll"
+    ],
+    "hook_modules": [
+      "resident.dll"
+    ]
+  },
+  "allocate_console": false,
+  "font_manager": {
+    "enable": true,
+    "resource_files": [
+      
+    ],
+    "spoof_enumeration": {
+      "enable": false,
+      "filter_pitch_and_family": 0,
+      "filter_charset": 1,
+      "spoof_charset": 128
+    },
+    "spoof_creation": {
+      "enable": true,
+      "override_face": "Microsoft Yahei UI Bold",
+      "override_charset": 134
+    }
+  }
+}

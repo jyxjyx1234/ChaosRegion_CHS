@@ -1,0 +1,233 @@
+[
+    {
+        "index": 1,
+        "name": "桜火",
+        "pre_jp": "ふっ……どうにかこれで、いくらかは気も晴れたな。",
+        "post_jp": "ふっ……どうにかこれで、いくらかは気も晴れたな。",
+        "pre_zh": "呼……这样总算有些心情舒畅了。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "呼……这样总算有些心情舒畅了。"
+    },
+    {
+        "index": 2,
+        "name": "麟",
+        "pre_jp": "んむ！結構スカッとしたのだ！",
+        "post_jp": "んむ！結構スカッとしたのだ！",
+        "pre_zh": "嗯嗯！感觉很爽快！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "嗯嗯！感觉很爽快！"
+    },
+    {
+        "index": 3,
+        "name": "グリムゲルデ",
+        "pre_jp": "おめでと〜っ！これで、ボクは流のものだよ！よかった〜、あの変な蜘蛛オジサンが勝たなくて……",
+        "post_jp": "おめでと〜っ！これで、ボクは流のものだよ！よかった〜、あの変な蜘蛛オジサンが勝たなくて……",
+        "pre_zh": "恭喜～！这样，我就是流的人了！太好了～，那个奇怪的蜘蛛大叔没有赢……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "恭喜～！这样，我就是流的人了！太好了～，那个奇怪的蜘蛛大叔没有赢……"
+    },
+    {
+        "index": 4,
+        "name": "麟",
+        "pre_jp": "こっち来るな！別にお前なんて、欲しくないのだ！",
+        "post_jp": "こっち来るな！別にお前なんて、欲しくないのだ！",
+        "pre_zh": "别过来！我并不想要你这种人！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "别过来！我并不想要你这种人！"
+    },
+    {
+        "index": 5,
+        "name": "桜火",
+        "pre_jp": "その通りだ。流には私達がいる。",
+        "post_jp": "その通りだ。流には私達がいる。",
+        "pre_zh": "就是这样。流有我们在。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "就是这样。流有我们在。"
+    },
+    {
+        "index": 6,
+        "name": "グリムゲルデ",
+        "pre_jp": "なによ、ケチぃ！仲間に入れてくれても良いでしょ〜っ！！",
+        "post_jp": "なによ、ケチぃ！仲間に入れてくれても良いでしょ〜っ！！",
+        "pre_zh": "什么嘛，小气鬼！让我加入你们也没关系吧～！！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "什么嘛，小气鬼！让我加入你们也没关系吧～！！"
+    },
+    {
+        "index": 7,
+        "name": "麟＆桜火",
+        "pre_jp": "困ったヤツは、一人で十分だ！",
+        "post_jp": "困ったヤツは、一人で十分だ！",
+        "pre_zh": "麻烦的家伙，有一个就够了！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "麻烦的家伙，有一个就够了！"
+    },
+    {
+        "index": 8,
+        "name": "麟",
+        "pre_jp": "んむむ？なんで桜火まで言うのだ？",
+        "post_jp": "んむむ？なんで桜火まで言うのだ？",
+        "pre_zh": "嗯嗯嗯？为什么连樱火都这么说？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "嗯嗯嗯？为什么连樱火都这么说？"
+    },
+    {
+        "index": 9,
+        "name": "桜火",
+        "pre_jp": "お前の方こそ、自分のことを棚に上げるのはよせ。",
+        "post_jp": "お前の方こそ、自分のことを棚に上げるのはよせ。",
+        "pre_zh": "你才是，别把自己放在一边。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "你才是，别把自己放在一边。"
+    },
+    {
+        "index": 10,
+        "name": "流",
+        "pre_jp": "は……ははは………ふぅ……",
+        "post_jp": "は……ははは………ふぅ……",
+        "pre_zh": "哈……哈哈哈……呼……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "哈……哈哈哈……呼……"
+    },
+    {
+        "index": 11,
+        "name": "麟",
+        "pre_jp": "ぬなっ！？お、おい、マスター！？なんで急に寝るのだ！？",
+        "post_jp": "ぬなっ！？お、おい、マスター！？なんで急に寝るのだ！？",
+        "pre_zh": "呜哇！？喂，主人！？为什么突然就睡着了！？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "呜哇！？喂，主人！？为什么突然就睡着了！？"
+    },
+    {
+        "index": 12,
+        "name": "桜火",
+        "pre_jp": "寝たんじゃなくて倒れたんだ！さっきのダメージか……！？",
+        "post_jp": "寝たんじゃなくて倒れたんだ！さっきのダメージか……！？",
+        "pre_zh": "不是睡着了，是倒下了！是刚才的伤害吗……！？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "不是睡着了，是倒下了！是刚才的伤害吗……！？"
+    },
+    {
+        "index": 13,
+        "name": "グリムゲルデ",
+        "pre_jp": "ちょ、ちょっと、流！？大丈夫！？",
+        "post_jp": "ちょ、ちょっと、流！？大丈夫！？",
+        "pre_zh": "等、等一下，流！？你还好吗！？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "等、等一下，流！？你还好吗！？"
+    },
+    {
+        "index": 14,
+        "name": "音子",
+        "pre_jp": "瑠琉！治療だ！",
+        "post_jp": "瑠琉！治療だ！",
+        "pre_zh": "瑠琉！快治疗！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "瑠琉！快治疗！"
+    },
+    {
+        "index": 15,
+        "name": "瑠琉",
+        "pre_jp": "は、はい！！",
+        "post_jp": "は、はい！！",
+        "pre_zh": "好、好的！！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "好、好的！！"
+    },
+    {
+        "index": 16,
+        "name": "グリムゲルデ",
+        "pre_jp": "あ……でも、仮に死んじゃったとしても、ボクとしてはオッケーなのかな？",
+        "post_jp": "あ……でも、仮に死んじゃったとしても、ボクとしてはオッケーなのかな？",
+        "pre_zh": "啊……但是，即使我死了，对我来说也无所谓吧？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "啊……但是，即使我死了，对我来说也无所谓吧？"
+    },
+    {
+        "index": 17,
+        "name": "麟",
+        "pre_jp": "オッケーじゃないのだ！縁起でもないぞ、この馬鹿者ぉ！",
+        "post_jp": "オッケーじゃないのだ！縁起でもないぞ、この馬鹿者ぉ！",
+        "pre_zh": "无所谓个头！你这个笨蛋，真是不吉利！",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "无所谓个头！你这个笨蛋，真是不吉利！"
+    },
+    {
+        "index": 18,
+        "name": "",
+        "pre_jp": "瑠琉さんと音子を庇おうとして蛮王の攻撃を受けたダメージが響いたのか、気を緩めた途端に私は倒れ、気を失ってしまったらしい。",
+        "post_jp": "瑠琉さんと音子を庇おうとして蛮王の攻撃を受けたダメージが響いたのか、気を緩めた途端に私は倒れ、気を失ってしまったらしい。",
+        "pre_zh": "我似乎是为了保护瑠琉和音子而承受了蛮王的攻击，导致身体受到了伤害。一放松下来，我就倒下了，失去了意识。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "我似乎是为了保护瑠琉和音子而承受了蛮王的攻击，导致身体受到了伤害。一放松下来，我就倒下了，失去了意识。"
+    },
+    {
+        "index": 19,
+        "name": "",
+        "pre_jp": "意識を失う直前、目に映った青空には、日傘を差した無限が浮いていたように見えたけど……",
+        "post_jp": "意識を失う直前、目に映った青空には、日傘を差した無限が浮いていたように見えたけど……",
+        "pre_zh": "在失去意识的前一刻，我看到的蓝天中，似乎浮着一个撑着阳伞的无限……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "在失去意识的前一刻，我看到的蓝天中，似乎浮着一个撑着阳伞的无限……"
+    },
+    {
+        "index": 20,
+        "name": "無限",
+        "pre_jp": "まさか、力が解放された？まだ早すぎるというのに……",
+        "post_jp": "まさか、力が解放された？まだ早すぎるというのに……",
+        "pre_zh": "难道，力量被释放了？明明还早……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "难道，力量被释放了？明明还早……"
+    },
+    {
+        "index": 21,
+        "name": "無限",
+        "pre_jp": "…………仕方がありませんわね。",
+        "post_jp": "…………仕方がありませんわね。",
+        "pre_zh": "……没办法了呢。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "……没办法了呢。"
+    }
+]

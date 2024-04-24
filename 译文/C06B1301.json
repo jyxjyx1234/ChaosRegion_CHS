@@ -1,0 +1,57 @@
+[
+    {
+        "index": 1,
+        "name": "黒亀",
+        "pre_jp": "蒼龍、六式、七式……ならびに犬羽の反応を喪失。モニター出来ません。",
+        "post_jp": "蒼龍、六式、七式……ならびに犬羽の反応を喪失。モニター出来ません。",
+        "pre_zh": "苍龙、六式、七式……以及犬羽的反应消失。无法监控。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "苍龙、六式、七式……以及犬羽的反应消失。无法监控。"
+    },
+    {
+        "index": 2,
+        "name": "無限",
+        "pre_jp": "わかってます。さて、どうしたものかしら……",
+        "post_jp": "わかってます。さて、どうしたものかしら……",
+        "pre_zh": "我知道了。那么，该怎么办呢……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "我知道了。那么，该怎么办呢……"
+    },
+    {
+        "index": 3,
+        "name": "音子",
+        "pre_jp": "む、無限様……",
+        "post_jp": "む、無限様……",
+        "pre_zh": "无、无限大人……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "无、无限大人……"
+    },
+    {
+        "index": 4,
+        "name": "無限",
+        "pre_jp": "心配の必要はありませんわよ。",
+        "post_jp": "心配の必要はありませんわよ。",
+        "pre_zh": "你不需要担心。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "你不需要担心。"
+    },
+    {
+        "index": 5,
+        "name": "無限",
+        "pre_jp": "ですが敵の思い通りに事が運ぶというのは、楽しいものではありませんわね。",
+        "post_jp": "ですが敵の思い通りに事が運ぶというのは、楽しいものではありませんわね。",
+        "pre_zh": "但是，让敌人如愿以偿，这可不是什么愉快的事情。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "但是，让敌人如愿以偿，这可不是什么愉快的事情。"
+    }
+]

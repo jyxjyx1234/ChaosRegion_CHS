@@ -1,0 +1,190 @@
+[
+    {
+        "index": 1,
+        "name": "流",
+        "pre_jp": "答えよ、小さき精霊よ……",
+        "post_jp": "答えよ、小さき精霊よ……",
+        "pre_zh": "回答我，小小的精灵……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "回答我，小小的精灵……"
+    },
+    {
+        "index": 2,
+        "name": "流",
+        "pre_jp": "う〜ん……駄目か。この辺にいないみたいだけど……それとも、よほど上手く隠れているか……",
+        "post_jp": "う〜ん……駄目か。この辺にいないみたいだけど……それとも、よほど上手く隠れているか……",
+        "pre_zh": "嗯……不行吗。看来不在这里……还是说，他们隐藏得非常好……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "嗯……不行吗。看来不在这里……还是说，他们隐藏得非常好……"
+    },
+    {
+        "index": 3,
+        "name": "流",
+        "pre_jp": "麟の方は？",
+        "post_jp": "麟の方は？",
+        "pre_zh": "麟那边怎么样？",
+        "proofread_zh": "",
+        "problem": "比日文长1.4倍",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "麟那边怎么样？"
+    },
+    {
+        "index": 4,
+        "name": "麟",
+        "pre_jp": "（んむむぅ……反応無しなのだ。）",
+        "post_jp": "（んむむぅ……反応無しなのだ。）",
+        "pre_zh": "（嗯嗯嗯……没有反应。）",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "（嗯嗯嗯……没有反应。）"
+    },
+    {
+        "index": 5,
+        "name": "流",
+        "pre_jp": "そっか……",
+        "post_jp": "そっか……",
+        "pre_zh": "是吗……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "是吗……"
+    },
+    {
+        "index": 6,
+        "name": "",
+        "pre_jp": "本当に、日が暮れてしまった。慣れない私はもちろん、麟もかなり苦労しているようだ。",
+        "post_jp": "本当に、日が暮れてしまった。慣れない私はもちろん、麟もかなり苦労しているようだ。",
+        "pre_zh": "真的，天已经黑了。不习惯的我自然不用说，麟似乎也相当辛苦。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "真的，天已经黑了。不习惯的我自然不用说，麟似乎也相当辛苦。"
+    },
+    {
+        "index": 7,
+        "name": "",
+        "pre_jp": "無限は、昨日までの探索の疲れが残っていると、先に寝てしまったし、黒亀さんと瑠琉さんは小休止中。",
+        "post_jp": "無限は、昨日までの探索の疲れが残っていると、先に寝てしまったし、黒亀さんと瑠琉さんは小休止中。",
+        "pre_zh": "无限因为昨天探索的疲劳还没有完全恢复，已经先睡了，黑龟和瑠琉正在稍作休息。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "无限因为昨天探索的疲劳还没有完全恢复，已经先睡了，黑龟和瑠琉正在稍作休息。"
+    },
+    {
+        "index": 8,
+        "name": "",
+        "pre_jp": "今は、音子が一人で……",
+        "post_jp": "今は、音子が一人で……",
+        "pre_zh": "现在，只有音子一个人……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "现在，只有音子一个人……"
+    },
+    {
+        "index": 9,
+        "name": "音子",
+        "pre_jp": "（ぐぅ〜……すぅ……んんっ……）",
+        "post_jp": "（ぐぅ〜……すぅ……んんっ……）",
+        "pre_zh": "（咕～……呼……嗯嗯……）",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "（咕～……呼……嗯嗯……）"
+    },
+    {
+        "index": 10,
+        "name": "流",
+        "pre_jp": "……音子？",
+        "post_jp": "……音子？",
+        "pre_zh": "……音子？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "……音子？"
+    },
+    {
+        "index": 11,
+        "name": "音子",
+        "pre_jp": "（んにゅ……ふへ……んへへ……んにゃ……）",
+        "post_jp": "（んにゅ……ふへ……んへへ……んな……）",
+        "pre_zh": "（嗯呜……呼嘿……嗯嘿嘿……什么……）",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "（嗯呜……呼嘿……嗯嘿嘿……什么……）"
+    },
+    {
+        "index": 12,
+        "name": "流",
+        "pre_jp": "……お休み中、か。",
+        "post_jp": "……お休み中、か。",
+        "pre_zh": "……在休息中，是吗。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "……在休息中，是吗。"
+    },
+    {
+        "index": 13,
+        "name": "桜火",
+        "pre_jp": "す、すまん……こんなことで、休んでしまうなんて……",
+        "post_jp": "す、すまん……こんなことで、休んでしまうなんて……",
+        "pre_zh": "对、对不起……我竟然因为这种事情就休息了……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "对、对不起……我竟然因为这种事情就休息了……"
+    },
+    {
+        "index": 14,
+        "name": "流",
+        "pre_jp": "え？い、いや、桜火の事じゃなくて、音子が……",
+        "post_jp": "え？い、いや、桜火の事じゃなくて、音子が……",
+        "pre_zh": "诶？不、不是，不是樱火的事情，是音子……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "诶？不、不是，不是樱火的事情，是音子……"
+    },
+    {
+        "index": 15,
+        "name": "桜火",
+        "pre_jp": "音子が……？",
+        "post_jp": "音子が……？",
+        "pre_zh": "音子……？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "音子……？"
+    },
+    {
+        "index": 16,
+        "name": "流",
+        "pre_jp": "うん、居眠りしてるみたい。",
+        "post_jp": "うん、居眠りしてるみたい。",
+        "pre_zh": "嗯，看起来像是在打瞌睡。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "嗯，看起来像是在打瞌睡。"
+    },
+    {
+        "index": 17,
+        "name": "桜火",
+        "pre_jp": "そうか……",
+        "post_jp": "そうか……",
+        "pre_zh": "是吗……",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "是吗……"
+    }
+]

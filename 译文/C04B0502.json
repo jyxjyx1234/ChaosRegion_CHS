@@ -1,0 +1,134 @@
+[
+    {
+        "index": 1,
+        "name": "ぷらら",
+        "pre_jp": "あっ、流〜、流〜。",
+        "post_jp": "あっ、流〜、流〜。",
+        "pre_zh": "啊，流～，流～",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "啊，流～，流～"
+    },
+    {
+        "index": 2,
+        "name": "流",
+        "pre_jp": "ん？",
+        "post_jp": "ん？",
+        "pre_zh": "嗯？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "嗯？"
+    },
+    {
+        "index": 3,
+        "name": "ぷらら",
+        "pre_jp": "お怪我、治ったのね？さっき、ぷららもお見舞いしたのよ。",
+        "post_jp": "お怪我、治ったのね？さっき、ぷららもお見舞いしたのよ。",
+        "pre_zh": "你的伤已经好了吗？刚才普拉拉也去探望过你了哦",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "你的伤已经好了吗？刚才普拉拉也去探望过你了哦"
+    },
+    {
+        "index": 4,
+        "name": "ぷらら",
+        "pre_jp": "でも、流は寝ていたから、静かにしなくちゃダメって、お見舞いもすぐに終わっちゃったの。",
+        "post_jp": "でも、流は寝ていたから、静かにしなくちゃダメって、お見舞いもすぐに終わっちゃったの。",
+        "pre_zh": "但是，流你一直在睡觉，所以普拉拉必须保持安静，探望很快就结束了",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "但是，流你一直在睡觉，所以普拉拉必须保持安静，探望很快就结束了"
+    },
+    {
+        "index": 5,
+        "name": "流",
+        "pre_jp": "そっか……寝たままで、ごめんね。おかげさまで、もう治ったよ。",
+        "post_jp": "そっか……寝たままで、ごめんね。おかげさまで、もう治ったよ。",
+        "pre_zh": "原来如此……我一直在睡觉，对不起。多亏了你，我已经痊愈了",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "原来如此……我一直在睡觉，对不起。多亏了你，我已经痊愈了"
+    },
+    {
+        "index": 6,
+        "name": "ぷらら",
+        "pre_jp": "よかったのよ。",
+        "post_jp": "よかったのよ。",
+        "pre_zh": "太好了。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "太好了。"
+    },
+    {
+        "index": 7,
+        "name": "流",
+        "pre_jp": "ぷららは、これからどこへ行くの？",
+        "post_jp": "ぷららは、これからどこへ行くの？",
+        "pre_zh": "普拉拉，你接下来要去哪里？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "普拉拉，你接下来要去哪里？"
+    },
+    {
+        "index": 8,
+        "name": "ぷらら",
+        "pre_jp": "ん？もうすぐ、おねむの時間なのね。無限がもう寝なさいって言うから、おやすみの支度をするのよ。",
+        "post_jp": "ん？もうすぐ、おねむの時間なのね。無限がもう寝なさいって言うから、おやすみの支度をするのよ。",
+        "pre_zh": "嗯？马上就要到睡觉的时间了。无限说该睡觉了，所以我要准备睡觉。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "嗯？马上就要到睡觉的时间了。无限说该睡觉了，所以我要准备睡觉。"
+    },
+    {
+        "index": 9,
+        "name": "流",
+        "pre_jp": "そう……無限は今、部屋にいる？",
+        "post_jp": "そう……無限は今、部屋にいる？",
+        "pre_zh": "是吗……无限现在在房间里吗？",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "是吗……无限现在在房间里吗？"
+    },
+    {
+        "index": 10,
+        "name": "ぷらら",
+        "pre_jp": "ん、いるのね。",
+        "post_jp": "ん、いるのね。",
+        "pre_zh": "嗯，他在呢。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "嗯，他在呢。"
+    },
+    {
+        "index": 11,
+        "name": "流",
+        "pre_jp": "ありがとう。おやすみ、ぷらら。",
+        "post_jp": "ありがとう。おやすみ、ぷらら。",
+        "pre_zh": "谢谢你。晚安，普拉拉。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "谢谢你。晚安，普拉拉。"
+    },
+    {
+        "index": 12,
+        "name": "ぷらら",
+        "pre_jp": "ん、おやすみなのよ。",
+        "post_jp": "ん、おやすみなのよ。",
+        "pre_zh": "嗯，晚安。",
+        "proofread_zh": "",
+        "trans_by": "sakura-010",
+        "proofread_by": "",
+        "post_zh_preview": "嗯，晚安。"
+    }
+]
